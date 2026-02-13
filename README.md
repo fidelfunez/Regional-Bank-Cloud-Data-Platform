@@ -216,31 +216,9 @@ This project is a **production-ready, enterprise-grade data engineering platform
 - **Orchestration** - Airflow DAGs with dependency management
 - **Monitoring** - CloudWatch metrics, alarms, and dashboards
 
-## Future Improvements (That I may or may not add)
-
-### **Enhanced Data Sources**
-- **API Integration** - REST APIs for external data sources
-- **Database Connectors** - Direct database connections
-- **File Formats** - Support for JSON, XML, Avro formats
-
-### **Advanced Analytics**
-- **Machine Learning** - ML model integration for predictions
-- **Real-time Analytics** - Streaming analytics with Kinesis Analytics
-- **Advanced Monitoring** - Anomaly detection and predictive alerts
-
-### **DevOps & CI/CD**
-- **Automated Testing** - Unit and integration tests
-- **CI/CD Pipeline** - Automated deployment and testing
-- **Environment Management** - Dev, staging, production environments
-
-### **Security & Compliance**
-- **Data Encryption** - End-to-end encryption
-- **Access Control** - Fine-grained IAM policies
-- **Audit Logging** - Comprehensive audit trails
-
 ## Business Impact
 
-This platform enables a Regional Development Bank to:
+This platform (hopefully) enables a Regional Development Bank to:
 - **Process 10x more data** with the same infrastructure
 - **Reduce data quality issues** by 95% through automated validation
 - **Accelerate insights** with real-time analytics capabilities
@@ -252,9 +230,9 @@ This platform enables a Regional Development Bank to:
 **Data Engineer Portfolio Project**  
 *End-to-End Cloud Data Platform*
 
-- **GitHub**: https://github.com/fidelfunez
-- **LinkedIn**: https://linkedin.com/in/fidel-funez
+- **Portfolio Website**: https://fidelfunez.netlify.app
 - **Email**: fidelfunezf@gmail.com
+- **X**: https://x.com/fidelfunez
 
 ---
 
