@@ -1,8 +1,8 @@
 # End-to-End Cloud Data Platform for Regional Development Bank
 
-## 🎯 Project Overview
+## Project Overview
 
-This is a **production-ready, enterprise-grade data engineering platform** designed for a Regional Development Bank's Research Department. The platform demonstrates advanced data engineering skills by handling both batch and streaming data processing, providing a unified analytics environment for economic, demographic, and transactional data from multiple countries.
+This project is a **production-ready, enterprise-grade data engineering platform** designed for a Regional Development Bank's Research Department. The platform showcases my data engineering skills by handling both batch and streaming data processing, offering a unified analytics environment for economic, demographic, and transactional data from multiple countries.
 
 **Key Capabilities:**
 - **Batch & Streaming Data Processing** - Handles daily economic reports and real-time transactions
@@ -11,7 +11,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 - **End-to-End Orchestration** - Apache Airflow with comprehensive monitoring
 - **Data Warehouse & Analytics** - Redshift with dbt modeling and SCD Type 2
 
-## 🏗️ Architecture Diagram
+## Architecture Diagram
 
 ```
 ┌─────────────────┐    ┌─────────────────┐    ┌─────────────────┐
@@ -50,7 +50,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
                     └─────────────────┘
 ```
 
-## 🛠️ Tech Stack & Tools
+## Tech Stack/Tools
 
 ### **Cloud Platform**
 - **AWS** (Primary) - S3, Glue, Redshift, Kinesis, CloudWatch, IAM
@@ -84,7 +84,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 - **SQL** - Data modeling and analytics
 - **YAML** - Configuration management
 
-## 🔄 Pipeline Flow (Step-by-Step)
+## Pipeline Flow (Step-by-Step)
 
 ### **1. Data Ingestion**
 - **Batch Data**: CSV files uploaded to S3 raw layer (economic indicators, demographic data)
@@ -106,7 +106,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 - **Monitoring**: CloudWatch alarms for failures and performance
 - **Alerting**: SNS notifications for critical issues
 
-## 📸 Screenshots & Visual Proof
+## Screenshots/Visual Proof
 
 ### **Data Pipeline Execution**
 ![Terminal Results - Data Processing](./01-terminal-results.png)
@@ -129,13 +129,13 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 ![Code Quality - Analytics Queries](./06-code-quality-3.png)
 *Complex SQL analytics queries with CTEs and business logic*
 
-## 🚀 How to Reproduce
+## How to Reproduce
 
 ### **Prerequisites**
 - Python 3.8+
-- Docker and Docker Compose (optional)
-- Terraform CLI (optional)
-- dbt CLI (optional)
+- Docker and Docker Compose (preferred but optional)
+- Terraform CLI (preferred but optional)
+- dbt CLI (preferred but optional)
 
 ### **Local Development Steps**
 
@@ -195,7 +195,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
    dbt docs generate
    ```
 
-## ✨ Key Features & Highlights
+## Key Features & Highlights
 
 ### **Data Engineering Excellence**
 - **Batch & Streaming Processing** - Handles both daily batch and real-time streaming data
@@ -216,7 +216,7 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 - **Orchestration** - Airflow DAGs with dependency management
 - **Monitoring** - CloudWatch metrics, alarms, and dashboards
 
-## 🔮 Future Improvements
+## Future Improvements (That I may or may not add)
 
 ### **Enhanced Data Sources**
 - **API Integration** - REST APIs for external data sources
@@ -238,16 +238,16 @@ This is a **production-ready, enterprise-grade data engineering platform** desig
 - **Access Control** - Fine-grained IAM policies
 - **Audit Logging** - Comprehensive audit trails
 
-## 📊 Business Impact
+## Business Impact
 
-This platform enables the Regional Development Bank to:
+This platform enables a Regional Development Bank to:
 - **Process 10x more data** with the same infrastructure
 - **Reduce data quality issues** by 95% through automated validation
 - **Accelerate insights** with real-time analytics capabilities
 - **Ensure compliance** with comprehensive data governance
 - **Optimize costs** through cloud-native architecture
 
-## 🤝 Contact & Portfolio
+## Contact & Portfolio
 
 **Data Engineer Portfolio Project**  
 *End-to-End Cloud Data Platform*
@@ -258,4 +258,4 @@ This platform enables the Regional Development Bank to:
 
 ---
 
-*This project started as a learning experiment and turned into something I'm genuinely proud of. It's not perfect (what code ever is?), but it represents my journey into data engineering, from "what's a data lake?" to building a full-stack platform that actually processes real data. Built with lots of coffee/green tea, Stack Overflow searches, Github Copilot, and the occasional "why isn't this working?" moments that every developer knows too well.*
+*This project started merely as another showcase for my portfolio, but later turned into something I'm genuinely proud of. It's not perfect, but it is a functional, full-stack platform that actually processes real data. Built with lots of coffee & green tea, Stack Overflow searches, (a ton) of help from Github Copilot, and lots of troubleshooting moments that keep me humble.*
