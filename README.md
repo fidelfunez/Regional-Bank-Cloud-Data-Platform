@@ -254,7 +254,7 @@ This platform enables a Regional Development Bank to:
 
 - **GitHub**: https://github.com/fidelfunez
 - **LinkedIn**: https://linkedin.com/in/fidel-funez
-- **Email**: funez1022@gmail.com
+- **Email**: fidelfunezf@gmail.com
 
 ---
 
